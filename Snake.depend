@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1644862244 source:c:\users\user\desktop\snake\snake\main.cpp
+	<iostream>
+	"Menu.h"
+
+1644859665 c:\users\user\desktop\snake\snake\menu.h
+	<cstdlib>
+	"Juego.h"
+
+1646961877 c:\users\user\desktop\snake\snake\juego.h
+	"Auxiliar.h"
+	"Serpiente.h"
+	"Comida.h"
+	<conio.h>
+	<ctime>
+
+1644859968 c:\users\user\desktop\snake\snake\auxiliar.h
+	<windows.h>
+	<cstdio>
+
+1646961982 c:\users\user\desktop\snake\snake\serpiente.h
+	"Auxiliar.h"
+	"Comida.h"
+	<conio.h>
+
+1644860942 c:\users\user\desktop\snake\snake\comida.h
+
